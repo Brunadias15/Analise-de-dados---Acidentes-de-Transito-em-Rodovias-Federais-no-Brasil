@@ -1,4 +1,5 @@
-# Projeto de Análise de Acidentes em Rodovias Federais no Brasil <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
+# Projeto de Análise de Acidentes em Rodovias Federais no Brasil 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
           
 Este projeto, desenvolvido em equipe por Bruna Dias, Camylla Oliveira, Eliane Patrício, Nayla Andrade e Rodrigo Freitas, utiliza a poderosa biblioteca Pandas em Python para realizar análise de dados e estatística computacional sobre acidentes em rodovias federais no Brasil. O conjunto de dados abrange o período de 2007 a 2022, fornecendo informações detalhadas sobre diversos aspectos dos acidentes.
 
